@@ -20,12 +20,12 @@ Changes over the original:
 # Usage
 Add dependency to your project:
 ```bash
-yarn add @gnosis.pm/cow-runner-game
+yarn add @cowprotocol/cow-runner-game
 ```
 
 Use the `CowGame` react component:
 ```tsx
-import { CowGame } from '@gnosis.pm/cow-runner-game'
+import { CowGame } from '@cowprotocol/cow-runner-game'
 
 export default function Your () {
   return (
